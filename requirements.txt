@@ -1,0 +1,2 @@
+django==2.2.24
+django-revproxy==0.10.0
